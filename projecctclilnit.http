@@ -1,0 +1,6 @@
+@projecctclilnit_HostAddress = http://localhost:5058
+
+GET {{projecctclilnit_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
